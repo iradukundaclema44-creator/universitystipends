@@ -1,5 +1,4 @@
 
 public abstract class student {
-    public abstract double calculateMonthlyStipend();
+  public abstract double calculateMonthlyStipend();
 }
-
